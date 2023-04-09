@@ -1,0 +1,14 @@
+C:\Users\spark\source\repos\Arithmetic\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.exe
+C:\Users\spark\source\repos\Arithmetic\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.deps.json
+C:\Users\spark\source\repos\Arithmetic\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.runtimeconfig.json
+C:\Users\spark\source\repos\Arithmetic\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.runtimeconfig.dev.json
+C:\Users\spark\source\repos\Arithmetic\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.dll
+C:\Users\spark\source\repos\Arithmetic\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.pdb
+C:\Users\spark\source\repos\Arithmetic\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\Arithmetic\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\source\repos\Arithmetic\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.AssemblyInfoInputs.cache
+C:\Users\spark\source\repos\Arithmetic\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.AssemblyInfo.cs
+C:\Users\spark\source\repos\Arithmetic\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\Arithmetic\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.dll
+C:\Users\spark\source\repos\Arithmetic\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.pdb
+C:\Users\spark\source\repos\Arithmetic\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.genruntimeconfig.cache

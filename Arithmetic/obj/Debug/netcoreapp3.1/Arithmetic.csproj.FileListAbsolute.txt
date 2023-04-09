@@ -1,0 +1,14 @@
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.exe
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.deps.json
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.runtimeconfig.json
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.runtimeconfig.dev.json
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.dll
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.pdb
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.AssemblyInfo.cs
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.dll
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.pdb
+C:\Users\spark\source\repos\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.genruntimeconfig.cache

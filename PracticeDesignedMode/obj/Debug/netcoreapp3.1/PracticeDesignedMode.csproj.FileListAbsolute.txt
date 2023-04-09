@@ -1,0 +1,14 @@
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\bin\Debug\netcoreapp3.1\PracticeDesignedMode.exe
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\bin\Debug\netcoreapp3.1\PracticeDesignedMode.deps.json
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\bin\Debug\netcoreapp3.1\PracticeDesignedMode.runtimeconfig.json
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\bin\Debug\netcoreapp3.1\PracticeDesignedMode.runtimeconfig.dev.json
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\bin\Debug\netcoreapp3.1\PracticeDesignedMode.dll
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\bin\Debug\netcoreapp3.1\PracticeDesignedMode.pdb
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\obj\Debug\netcoreapp3.1\PracticeDesignedMode.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\obj\Debug\netcoreapp3.1\PracticeDesignedMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\obj\Debug\netcoreapp3.1\PracticeDesignedMode.AssemblyInfoInputs.cache
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\obj\Debug\netcoreapp3.1\PracticeDesignedMode.AssemblyInfo.cs
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\obj\Debug\netcoreapp3.1\PracticeDesignedMode.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\obj\Debug\netcoreapp3.1\PracticeDesignedMode.dll
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\obj\Debug\netcoreapp3.1\PracticeDesignedMode.pdb
+C:\Users\spark\source\repos\Arithmetic\PracticeDesignedMode\obj\Debug\netcoreapp3.1\PracticeDesignedMode.genruntimeconfig.cache

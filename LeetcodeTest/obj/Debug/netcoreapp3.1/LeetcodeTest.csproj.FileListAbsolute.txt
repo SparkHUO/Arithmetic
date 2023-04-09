@@ -1,0 +1,14 @@
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\obj\Debug\netcoreapp3.1\LeetcodeTest.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\obj\Debug\netcoreapp3.1\LeetcodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\obj\Debug\netcoreapp3.1\LeetcodeTest.AssemblyInfoInputs.cache
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\obj\Debug\netcoreapp3.1\LeetcodeTest.AssemblyInfo.cs
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\obj\Debug\netcoreapp3.1\LeetcodeTest.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\bin\Debug\netcoreapp3.1\LeetcodeTest.exe
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\bin\Debug\netcoreapp3.1\LeetcodeTest.deps.json
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\bin\Debug\netcoreapp3.1\LeetcodeTest.runtimeconfig.json
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\bin\Debug\netcoreapp3.1\LeetcodeTest.runtimeconfig.dev.json
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\bin\Debug\netcoreapp3.1\LeetcodeTest.dll
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\bin\Debug\netcoreapp3.1\LeetcodeTest.pdb
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\obj\Debug\netcoreapp3.1\LeetcodeTest.dll
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\obj\Debug\netcoreapp3.1\LeetcodeTest.pdb
+C:\Users\spark\source\repos\Arithmetic\LeetcodeTest\obj\Debug\netcoreapp3.1\LeetcodeTest.genruntimeconfig.cache
