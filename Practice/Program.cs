@@ -18,21 +18,8 @@ namespace Practice
         static void Main(string[] args)
         {
 
-            //ShowArray(array);
-            //TreeSort(array);
-            ////QuickSort(array, 0, array.Length - 1);
-            //ShowArray(array);
 
-
-            //List<int> list = new List<int>();
-            //list = ConcatAndSort(str1, str2);
-            //for (int i = 0; i < list.Count; i++)
-            //{
-            //    Console.Write(list[i]+" ");
-            //}
-
-
-            Console.Write(CountString(str3));
+            Console.Write("Second Commit and Push!");
 
         }
 
