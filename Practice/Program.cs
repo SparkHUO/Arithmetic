@@ -20,6 +20,7 @@ namespace Practice
 
 
             Console.Write("Second Commit and Push!");
+            Console.Write("Function01!");
 
         }
 
